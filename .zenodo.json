@@ -1,28 +1,23 @@
 {
-  "title": "CADET-Core: Version 5.0.0",
-  "upload_type": "software",
-  "creators": [
-    { "name": "Leweke, Samuel", "orcid": "0000-0001-9471-4511", "affiliation": "1" },
-    { "name": "Breuer, Jan", "orcid": "0000-0002-1999-2439", "affiliation": "1" },
-    { "name": "Schmölder, Johannes", "orcid": "0000-0003-0446-7209", "affiliation": "1" },
-    { "name": "Jäpel, Ronald", "orcid": "0000-0002-4912-5176", "affiliation": "1" },
-    { "name": "Lanzrath, Hannah", "orcid": "0000-0002-2675-9002", "affiliation": "1, 2" },
-    { "name": "Zhang, Wendi", "orcid": "0000-0002-6127-1408", "affiliation": "3" },
-    { "name": "Berger, Antonia", "orcid": "0009-0002-0207-9042", "affiliation": "1, 2" },
-    { "name": "von Lieres, Eric", "orcid": "0000-0002-0309-8408", "affiliation": "1, 2", "corresponding": true }
-  ],
-  "affiliations": [
-    { "name": "Forschungszentrum Jülich, IBG-1: Biotechnology, Germany", "index": "1", "ror": "02nv7yv05" },
-    { "name": "RWTH Aachen, Germany", "index": "2", "ror": "04xfq0f34" },
-    { "name": "Rensselaer Polytechnic Institute, Department of Chemical and Biological Engineering, USA", "index": "3", "ror": "01rtyzb94" }
-  ],
-  "license": "GPL-3.0",
-  "keywords": [
-    "simulation", "biochemical", "process", "chromatography", "CADET", "general rate model"
-  ],
-  "version": "5.0.0",
-  "access_right": "open",
-  "communities": [
-    { "identifier": "open-source" }
-  ]
-}
+    "title": "CADET-Core: Version 5.0.0",
+    "upload_type": "software",
+    "creators": [
+      { "name": "Leweke, Samuel", "orcid": "0000-0001-9471-4511", "affiliation": "Forschungszentrum Jülich, IBG-1: Biotechnology, Germany" },
+      { "name": "Breuer, Jan", "orcid": "0000-0002-1999-2439", "affiliation": "Forschungszentrum Jülich, IBG-1: Biotechnology, Germany" },
+      { "name": "Schmölder, Johannes", "orcid": "0000-0003-0446-7209", "affiliation": "Forschungszentrum Jülich, IBG-1: Biotechnology, Germany" },
+      { "name": "Jäpel, Ronald", "orcid": "0000-0002-4912-5176", "affiliation": "Forschungszentrum Jülich, IBG-1: Biotechnology, Germany" },
+      { "name": "Lanzrath, Hannah", "orcid": "0000-0002-2675-9002", "affiliation": "Forschungszentrum Jülich, IBG-1: Biotechnology, Germany; RWTH Aachen, Germany" },
+      { "name": "Zhang, Wendi", "orcid": "0000-0002-6127-1408", "affiliation": "Rensselaer Polytechnic Institute, Department of Chemical and Biological Engineering, USA" },
+      { "name": "Berger, Antonia", "orcid": "0009-0002-0207-9042", "affiliation": "Forschungszentrum Jülich, IBG-1: Biotechnology, Germany; RWTH Aachen, Germany" },
+      { "name": "von Lieres, Eric", "orcid": "0000-0002-0309-8408", "affiliation": "Forschungszentrum Jülich, IBG-1: Biotechnology, Germany; RWTH Aachen, Germany"}
+    ],
+    "license": "GPL-3.0",
+    "keywords": [
+      "simulation", "biochemical", "process", "chromatography", "CADET", "general rate model"
+    ],
+    "version": "5.0.0",
+    "access_right": "open",
+    "communities": [
+      { "identifier": "open-source" }
+    ]
+  }
